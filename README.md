@@ -10,4 +10,4 @@ Google Lab Server :
 
 <<https://colab.research.google.com/drive/1jog_Mk-V0Kznx7ohbI2Z_k8FVWmFvZeb#scrollTo=iGyKN1h_VMqa>>
 
-*The spot price forecast result for CPO is output as a csv file (i.e. PRED_N3MTH.csv)
+Note : The spot price forecast result for CPO is output as a csv file (i.e. PRED_N3MTH.csv)
